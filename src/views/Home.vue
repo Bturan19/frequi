@@ -9,10 +9,10 @@
     <br />
     <p>
       If you need any help, please refer to the
-      <a href="https://www.freqtrade.io/en/latest/">Freqtrade Documentation</a>.
+      <a href="/">Coinoner Documentation</a>.
     </p>
 
-    <p>Have fun - <i>wishes you the Freqtrade team</i></p>
+    <p>Have fun - <i>wishes you the Coinoner team</i></p>
   </div>
 </template>
 
